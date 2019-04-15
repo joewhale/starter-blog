@@ -1,17 +1,12 @@
 ---
-title: "About"
+title: About
 menu:
   main:
     weight: 999
 published: true
 ---
+# The purpose of this site is to share my experience with sampling cool products and applications.
 
-> A ready to use static blog, powered by [Hyde](https://github.com/Cecilapp/theme-hyde), [Cecil](https://cecil.app) and [Netlify](https://www.netlify.com).
+Hi. My name is Joel Choi, and I love playing with new applications. I'm not technical by any means, and I'm definitely not a great writer. I'm just an average guy that loves products with amazing user interfaces and cool features.
 
-## How to use?
-
-### Setup your blog
-
-Use the following button to configure and deploy your new blog on Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Cecilapp/starter-blog)
+My posts will be all over the place, but I hope to keep it consistent enough with my honest experiences, some step by step tutorials, and reviews/feedback.
