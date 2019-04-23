@@ -12,6 +12,6 @@ I clicked around on Netlify CMS and deployed a Hugo theme, but I was a little lo
 
 After looking through the limited options of [Netlify CMS templates](https://templates.netlify.com), I decided go with the Cecil starter blog. It's a simple and clean layout, and the cute butler image was irresistable. With Netlify CMS, you will be required to send admin rights via email and setup your Git workflow via Github. From what I've seen, Netlify CMS will allow you to change your content files and autoamtically push commits to your new Github repository.
 
-Once you're able to access the admin page, you can create your first post. (This post is my first post). The user interface for creating a post is super simple. It's not convulated with unnecessary features. It provides a live preview, and it is clear on how to publish.
+Once you're able to access the admin page, you can create your first post. (This post is my first post). The user interface for creating a post is super simple. It's not convulated with unnecessary features. There is a strange mandatory workflow of saving, saving the status as "ready", and then officially publishing. A lot of accountability to publish on a free, minimalistic blog. I guess I see the merit if you have multiple team members.
 
 Overall a really neat experience to get a blog up and running for free. Time will tell if any updates or weird bugs cause the blog to crash. For now, I'm planning to just type out my thoughts and not mess with any fancy CSS.
