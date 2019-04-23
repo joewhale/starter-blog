@@ -2,7 +2,7 @@
 title: Netlify CMS (one click!)
 date: 2019-04-15T02:11:02.157Z
 image: /images/netlify-cms-logo-5a5d3304b7d2d77ea281363a71dcc970.svg
-published: false
+published: true
 ---
 After a whole day of researching where I wanted to host this blog about sampling products, I came across a reddit comment that said that Netlify has their own CMS. I had heard of Netlify because I had played around with deploying a Hugo blog a few months ago.
 
